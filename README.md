@@ -9,7 +9,7 @@ This dashboard provides insights into pricing, revenue optimization, and investm
 - Investment recommendations
 
 ## Live App
-[Streamlit link](https://app-dashboard-airbnb-madrid-mbmfmhfmvrqkxths2es6vc.streamlit.app/)
+[Streamlit link - Airbnb Dashboard](https://app-dashboard-airbnb-madrid-mbmfmhfmvrqkxths2es6vc.streamlit.app/)
 
 ---
 `Built by Aryan Mishra • B106 Data Visualisation`
